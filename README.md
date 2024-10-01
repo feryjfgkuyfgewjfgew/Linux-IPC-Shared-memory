@@ -55,7 +55,8 @@ int main()
 ```
 
 ## OUTPUT
-![alt text](<os 6.png>)
+![image](https://github.com/user-attachments/assets/3307cca6-ebfa-4503-b485-bff3576f3d3e)
+
 
 # RESULT:
 The program is executed successfully.
